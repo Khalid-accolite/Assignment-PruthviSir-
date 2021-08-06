@@ -1,4 +1,4 @@
-package com.company;
+
 
 
 class SecThread implements Runnable{
